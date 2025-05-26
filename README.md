@@ -1,11 +1,9 @@
 <!-- 헤더 이미지 (핑크 + 하늘색 그라디언트) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=18&gradientDirection=horizontal&customColorList=FDC5F5,AEE2FF)
 
-<!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=2000&pause=1000&color=FF99CC&center=true&vCenter=true&width=435&lines=안녕하세요!+💖+GitHub에+오신걸+환영해요!;꾸준히+성장하는+개발자입니다+🌸;오늘도+화이팅~!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=안녕하세요!+반갑습니다.;I'm+a+Python+Developer;Enjoy+Coding+every+day!+🚀" />
 </p>
-
 
 <!-- 배지 (기술 스택) -->
 <p align="center">
