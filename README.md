@@ -1,12 +1,6 @@
 <!-- 헤더 이미지 (핑크 + 하늘색 그라디언트) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20welcome!&fontSize=45&fontColor=ffffff&fontAlign=50&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=50&descSize=18&gradientDirection=horizontal&customColorList=FDC5F5,AEE2FF)
 
-<!-- 이거 움직임  -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=안녕하세요!+반갑습니다.;열심히+배우고+있어요...!" />
-</p>
-
-
 <!-- 배지 (기술 스택) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FDD9E5?style=for-the-badge&logo=Python&logoColor=3776AB"/>
