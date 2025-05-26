@@ -4,9 +4,9 @@
 <!-- 배지 (기술 스택) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FDD9E5?style=for-the-badge&logo=Python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-AEE2FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=white"/>
+  #<img src="https://img.shields.io/badge/HTML-FFC0CB?style=for-the-badge&logo=html5&logoColor=white"/>
+  #<img src="https://img.shields.io/badge/CSS-AEE2FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  #<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FFB6C1?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
