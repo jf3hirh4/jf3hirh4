@@ -3,8 +3,9 @@
 
 <!-- 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=26&duration=2000&pause=1000&color=FF99CC&center=true&vCenter=true&width=435&lines=안녕하세요!+💖+GitHub에+오신걸+환영해요!;꾸준히+성장하는+개발자입니다+🌸;오늘도+화이팅~!+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=2000&pause=1000&color=FF99CC&center=true&vCenter=true&width=435&lines=안녕하세요!+💖+GitHub에+오신걸+환영해요!;꾸준히+성장하는+개발자입니다+🌸;오늘도+화이팅~!+🚀" />
 </p>
+
 
 <!-- 배지 (기술 스택) -->
 <p align="center">
